@@ -23,7 +23,7 @@
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="bootstrap logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=webpack" height="30" alt="webpack logo"  />
+<!--   <img src="https://skillicons.dev/icons?i=webpack" height="30" alt="webpack logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=angular" height="30" alt="angularjs logo"  />
   <img width="5" />
@@ -35,18 +35,18 @@
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo"  />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo"  /> -->
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="postgresql logo"  />
+<!--   <img width="5" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="postgresql logo"  /> -->
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=laravel" height="30" alt="laravel logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo"  />
-  <img width="5" />
+<!--   <img width="5" />
   <img src="https://skillicons.dev/icons?i=wordpress" height="30" alt="wordpress logo"  />
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" height="30" alt="woocommerce logo"  />
@@ -57,7 +57,7 @@
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
   <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="30" alt="graphql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="30" alt="graphql logo"  /> -->
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="30" alt="composer logo"  />
   <img width="5" />
