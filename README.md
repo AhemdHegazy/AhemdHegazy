@@ -78,7 +78,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/AhemdHegazy/AhemdHegazy/output/snake.svg" alt="Snake animation" />
+<img src="https://drive.google.com/file/d/18JPJcc87lfvmPzzBkQPreYQNkI6_03Sk/view?usp=sharing" alt="Snake animation" />
 
 ###
 <div align="left">
