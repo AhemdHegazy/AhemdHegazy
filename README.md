@@ -78,7 +78,7 @@
 
 ###
 
-<img src="https://drive.google.com/file/d/18JPJcc87lfvmPzzBkQPreYQNkI6_03Sk/view?usp=sharing" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
 <div align="left">
