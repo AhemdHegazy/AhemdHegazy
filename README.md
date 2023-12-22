@@ -1,17 +1,9 @@
 
 <br clear="both">
 
-<h3 align="left"></h3>
+<h2 align="left">Hi 👋 I'm  Ahmed Hegazy </h2>
 
-###
-
-<br clear="both">
-
-<img align="right" height="100" src="https://media.licdn.com/dms/image/D4D03AQEjqskEcvBzww/profile-displayphoto-shrink_200_200/0/1694161054144?e=1708560000&v=beta&t=fjgrDe8ctHGdgqF2ETmo3PgHCBEiUmCWWYWX4iiMERk"  />
-
-###
-
-<h4 align="left">Hi 👋<br>I'm  Ahmed Hegazy <br>I'm a Full Stack Developer</h4>
+<h4 align="left">I'm a Full Stack Developer</h4>
 
 ###
 
